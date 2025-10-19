@@ -3,7 +3,7 @@
 ## Descrição
 Este projeto implementa um simulador de estacionamento usando semáforos em Java para demonstrar conceitos de sincronização e controle de concorrência em Sistemas Operacionais.
 
-## 🚀 Como Executar
+## 🚀 Executar
 
 ```bash
 javac Main.java Carro.java Estacionamento.java
